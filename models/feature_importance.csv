@@ -1,0 +1,48 @@
+feature,importance
+cat__Contract_Month-to-month,0.1824247198282909
+num__tenure,0.10479979996177846
+cat__OnlineSecurity_No,0.08401873190983382
+num__TotalCharges,0.07926899070484018
+cat__Contract_Two year,0.07469740342647023
+cat__TechSupport_No,0.06393962372598651
+cat__InternetService_Fiber optic,0.058742232234126536
+cat__PaymentMethod_Electronic check,0.04313626337127245
+num__MonthlyCharges,0.041815477199780904
+cat__Contract_One year,0.027501976608490488
+cat__InternetService_DSL,0.020226851165485542
+cat__OnlineBackup_No,0.019866989411612097
+cat__StreamingMovies_No internet service,0.013205917315780897
+num__NumServices,0.01302629972761088
+cat__DeviceProtection_No,0.011911394509106915
+cat__OnlineSecurity_Yes,0.011062147463724092
+cat__OnlineSecurity_No internet service,0.010720377217389826
+cat__TechSupport_Yes,0.010514105046400407
+cat__InternetService_No,0.010422166136080293
+cat__TechSupport_No internet service,0.01018782180363343
+cat__StreamingTV_No internet service,0.010103826482915712
+cat__PaperlessBilling_No,0.008976058246865216
+cat__OnlineBackup_No internet service,0.00802544906054053
+cat__DeviceProtection_No internet service,0.007751821797586491
+cat__PaperlessBilling_Yes,0.007255188473459331
+cat__OnlineBackup_Yes,0.005327872014951448
+cat__StreamingMovies_Yes,0.004598004083980274
+cat__MultipleLines_Yes,0.004110626136523339
+cat__StreamingTV_Yes,0.003906900438665904
+cat__StreamingMovies_No,0.0038377938538345533
+cat__StreamingTV_No,0.0038013876014022473
+cat__PaymentMethod_Credit card (automatic),0.003510294790925909
+cat__gender_Male,0.003475902218341029
+cat__Partner_Yes,0.003472514525968773
+cat__Dependents_Yes,0.0032292897524245864
+cat__Partner_No,0.0031522935266032636
+cat__gender_Female,0.003144038069057869
+cat__Dependents_No,0.0030436792743848686
+cat__MultipleLines_No,0.0030425797984543956
+cat__DeviceProtection_Yes,0.0026206596245440927
+cat__PaymentMethod_Bank transfer (automatic),0.002521477070942697
+cat__PaymentMethod_Mailed check,0.0021662431005237837
+cat__SeniorCitizen_Yes,0.0016019865574860034
+cat__MultipleLines_No phone service,0.001539244153926238
+cat__PhoneService_Yes,0.0015334921124236065
+cat__SeniorCitizen_No,0.001429946793650276
+cat__PhoneService_No,0.0013321416719227982
